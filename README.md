@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0071-simplify-path) |
+| [0225-implement-stack-using-queues](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 ## Linked List
 |  |
 | ------- |
@@ -64,5 +65,10 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
