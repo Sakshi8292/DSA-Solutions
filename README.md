@@ -13,4 +13,12 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## String
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0071-simplify-path) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
