@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Two Pointers
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0088-merge-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
