@@ -10,6 +10,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Sakshi8292/DSA-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -58,5 +59,10 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Sakshi8292/DSA-Solutions/tree/master/1480-running-sum-of-1d-array) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
