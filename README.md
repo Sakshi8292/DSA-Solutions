@@ -21,4 +21,8 @@
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0071-simplify-path) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
