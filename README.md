@@ -12,6 +12,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sakshi8292/DSA-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Sakshi8292/DSA-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -42,6 +43,7 @@
 | [0088-merge-sorted-array](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sakshi8292/DSA-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sakshi8292/DSA-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sakshi8292/DSA-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
